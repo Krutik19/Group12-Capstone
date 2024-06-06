@@ -7,7 +7,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url(image/backgroud.jpg);
+    background-image: url(images/backgroud.jpg);
    background-size: cover;
     background-repeat: no-repeat; 
 }
